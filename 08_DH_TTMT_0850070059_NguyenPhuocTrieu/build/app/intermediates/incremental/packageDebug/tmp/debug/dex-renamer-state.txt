@@ -1,0 +1,4 @@
+#Wed Aug 16 16:04:31 ICT 2023
+base.0=C\:\\src\\pro\\LTBuoi9\\08_DH_TTMT_0850070059_NguyenPhuocTrieu\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
